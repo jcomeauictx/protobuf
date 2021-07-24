@@ -218,3 +218,12 @@ cmake/cmake-build-debug/
 
 # BenchmarkDotNet
 BenchmarkDotNet.Artifacts/
+
+# examples
+examples/add_person_python
+examples/addressbook.pb.cc
+examples/addressbook.pb.h
+examples/com/
+examples/list_people_python
+examples/protoc_middleman
+
